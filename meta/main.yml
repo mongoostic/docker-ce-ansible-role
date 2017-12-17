@@ -1,5 +1,5 @@
 galaxy_info:
-  author: zaxos 
+  author: mongoostic (fork from 'zaxos')
   description: Ansible role to install Docker CE (Community Edition)
 
   license: GPLv2
